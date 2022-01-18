@@ -17,10 +17,3 @@ styled-component로 변환한 후의 명확한 장점?
 4. className 속성을 사용하지 않음.
 
 - 이건 tailwind같은 프레임워크를 사용하면서도 점차 나타나는 현상.
-
-<iframe src="https://codesandbox.io/embed/css-to-styledcomponent-271ce?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="css-to-styledcomponent"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
